@@ -38,8 +38,6 @@
 <br><br>
 
 ---
-
-<br><br>
 ### 데이터 목록
 ```markdown
 [GIS DEVELOPER] 
