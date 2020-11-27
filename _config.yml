@@ -1,4 +1,4 @@
 title: 2020 빅데이터 연계경진대회 GitHub Pages
-description: uos 2020 bigdata contest page.
+description: uos 2020 bigdata contest page. <br> 2020 빅데이터 연계경진대회에서 구현한 동적 시각화 링크를 모아 둔 깃허브 페이지입니다. 링크를 클릭하면 해당 페이지로 이동합니다.
 logo: logo.PNG
 theme: jekyll-theme-minimal
