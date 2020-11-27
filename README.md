@@ -1,15 +1,16 @@
 ## 2020 서울시립대학교 빅데이터 연계경진대회
-2020 빅데이터 연계경진대회에서 구현한 동적 시각화 링크를 모아 둔 깃허브 페이지입니다. <br>
+```markdown
+2020 빅데이터 연계경진대회에서 구현한 동적 시각화 링크를 모아 둔 깃허브 페이지입니다.
 링크를 클릭하면 해당 시각화 페이지로 이동합니다.
+```
 <br>
+
 
 ---
 
 ### ✔ 텍스트 시각화
 #### [텍스트 네트워크](https://angelfox4.github.io/Portfolio/network/) <br>
-
 ---
-
 ### ✔ 동적 지도 시각화
 #### 1. [전국 어린이 보행자 사고다발 지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_1.html) <br>
 #### 2. [서울시 어린이 보행자사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_2.html) <br>
