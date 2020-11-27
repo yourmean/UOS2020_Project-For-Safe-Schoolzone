@@ -1,6 +1,6 @@
 ## 2020 서울시립대학교 빅데이터 연계경진대회
 2020 빅데이터 연계경진대회에서 구현한 동적 시각화 링크를 모아 둔 깃허브 페이지입니다. <br>
-링크를 클릭하면 해당 페이지로 이동합니다.
+링크를 클릭하면 해당 시각화 페이지로 이동합니다.
 <br>
 
 ---
@@ -13,14 +13,34 @@
 ---
 
 ### ✔ 동적 지도 시각화
-#### 어린이 교통사고 다발지역 
-[our map 1](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_1.html) <br>
-![map_1](https://github.com/yourmean/uos2020_bigdata_contest/blob/master/map_1.png)
+#### 1. 전국 어린이 보행자 사고다발 지역 
+[map 1](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_1.html) <br>
+![map_1](https://github.com/yourmean/uos2020_bigdata_contest/blob/master/map_1.png)<br>
+전국 어린이 보행자 사고다발 지역 시각화 페이지입니다.
+<br><br>
+
+### 2. 서울시 어린이 보행자사고 다발지역
+[map 2](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_2.html) <br>
+![map_2](https://github.com/yourmean/uos2020_bigdata_contest/blob/master/map_2.png)<br>
+서울시 어린이 보행자사고 다발지역 시각화 페이지입니다.
+
+#### 3. 전국 어린이 보행자사고 다발지역 
+[map 3](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_3.html) <br>
+![map_3](https://github.com/yourmean/uos2020_bigdata_contest/blob/master/map_3.png)<br>
+전국 어린이 보행자사고 다발지역 시각화 페이지입니다.
+<br><br>
+
+#### 4. 서울 어린이 교통사고 다발지역 
+[map 4](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_1.html) <br>
+![map_4](https://github.com/yourmean/uos2020_bigdata_contest/blob/master/map_1.png)<br>
 서울시 어린이 교통사고 다발지역 시각화 페이지입니다.
-<br>
-### 구별 어린이 교통사고 다발지역
-[our map 2](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_2.html) 
+<br><br>
+
+#### 5. 서울시 구별 어린이 교통사고 다발지역 
+[map 5](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_5.html) <br>
+![map_5](https://github.com/yourmean/uos2020_bigdata_contest/blob/master/map_5.png)<br>
 서울시 구별 어린이 교통사고 다발지역 시각화 페이지입니다.
+<br><br>
 
 ---
 
