@@ -7,14 +7,13 @@
 
 ### ✔ 텍스트 시각화
 #### 텍스트 네트워크 
-[text network page link](https://angelfox4.github.io/Portfolio/network/)<br>
+[text network page link](https://angelfox4.github.io/Portfolio/network/) <br>
 어린이 교통사고의 연관검색어 텍스트 네트워크 시각화 페이지입니다.
 
 ---
 
 ### ✔ 동적 지도 시각화
-#### 1. 전국 어린이 보행자 사고다발 지역 
-[map 1](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_1.html) <br>
+#### 1. 전국 어린이 보행자 사고다발 지역 [map 1](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_1.html) <br>
 전국 어린이 보행자 사고다발 지역 시각화 페이지입니다.
 <br><br>
 
