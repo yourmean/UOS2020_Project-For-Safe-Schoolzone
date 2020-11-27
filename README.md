@@ -6,11 +6,11 @@
 [text network page link](https://angelfox4.github.io/Portfolio/network/)<br>
 어린이 교통사고의 연관검색어 텍스트 네트워크 시각화 페이지입니다.
 <br><br>
-## 2.어린이 교통사고 다발지역** <br>
+## 2.어린이 교통사고 다발지역 
 [our map 1](https://rawcdn.githack.com/yourmean/uos2020_bigdata_map/fd8d017d0c3199d717b4a57d5359877ffc8fd5d5/map_1.html) <br>
 서울시 어린이 교통사고 다발지역 시각화 페이지입니다.
 <br><br>
-## 3.구별 어린이 교통사고 다발지역** <br>
+## 3.구별 어린이 교통사고 다발지역
 [our map 2](https://rawcdn.githack.com/yourmean/uos2020_bigdata_map/fd8d017d0c3199d717b4a57d5359877ffc8fd5d5/map_2.html) 
 서울시 구별 어린이 교통사고 다발지역 시각화 페이지입니다.
 <br><br><br><br>
