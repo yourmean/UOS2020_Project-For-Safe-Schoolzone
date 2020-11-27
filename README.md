@@ -1,19 +1,24 @@
 ## 2020 서울시립대학교 빅데이터 연계경진대회
 2020 빅데이터 연계경진대회에서 구현한 동적 시각화 링크를 모아 둔 깃허브 페이지입니다. <br>
 링크를 클릭하면 해당 페이지로 이동합니다.
-
-<br><br>
+<br>
 
 ---
-### 1. 텍스트 네트워크 
+
+### ✔ 텍스트 시각화
+#### 텍스트 네트워크 
 [text network page link](https://angelfox4.github.io/Portfolio/network/)<br>
 어린이 교통사고의 연관검색어 텍스트 네트워크 시각화 페이지입니다.
-<br><br>
-### 2.어린이 교통사고 다발지역 
+
+---
+
+### ✔ 동적 지도 시각화
+#### 어린이 교통사고 다발지역 
 [our map 1](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_1.html) <br>
+![map_1](https://github.com/yourmean/uos2020_bigdata_contest/blob/master/map_1.png)
 서울시 어린이 교통사고 다발지역 시각화 페이지입니다.
-<br><br>
-### 3.구별 어린이 교통사고 다발지역
+<br>
+### 구별 어린이 교통사고 다발지역
 [our map 2](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_2.html) 
 서울시 구별 어린이 교통사고 다발지역 시각화 페이지입니다.
 
