@@ -15,30 +15,25 @@
 ### ✔ 동적 지도 시각화
 #### 1. 전국 어린이 보행자 사고다발 지역 
 [map 1](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_1.html) <br>
-![map_1](https://user-images.githubusercontent.com/55529646/100429093-2ebadf00-30d8-11eb-9621-b5ad85f39fa4.png)<br>
 전국 어린이 보행자 사고다발 지역 시각화 페이지입니다.
 <br><br>
 
 ### 2. 서울시 어린이 보행자사고 다발지역
 [map 2](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_2.html) <br>
-![map_2](https://user-images.githubusercontent.com/55529646/100429090-2ebadf00-30d8-11eb-892c-60fed7e41a4a.png)<br>
 서울시 어린이 보행자사고 다발지역 시각화 페이지입니다.
 
 #### 3. 전국 어린이 보행자사고 다발지역 
 [map 3](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_3.html) <br>
-![map_3](https://user-images.githubusercontent.com/55529646/100429088-2e224880-30d8-11eb-833d-62860e879cb9.png)<br>
 전국 어린이 보행자사고 다발지역 시각화 페이지입니다.
 <br><br>
 
 #### 4. 서울 어린이 교통사고 다발지역 
 [map 4](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_1.html) <br>
-![map_4](https://user-images.githubusercontent.com/55529646/100429086-2d89b200-30d8-11eb-8af1-9ce2221f643f.png)<br>
 서울시 어린이 교통사고 다발지역 시각화 페이지입니다.
 <br><br>
 
 #### 5. 서울시 구별 어린이 교통사고 다발지역 
 [map 5](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_5.html) <br>
-![map_5](https://user-images.githubusercontent.com/55529646/100429080-2bbfee80-30d8-11eb-84d4-fea9a5532da7.png)<br>
 서울시 구별 어린이 교통사고 다발지역 시각화 페이지입니다.
 <br><br>
 
