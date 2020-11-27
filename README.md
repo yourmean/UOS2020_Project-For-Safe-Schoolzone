@@ -6,8 +6,11 @@
 ---
 
 ### ✔ 텍스트 시각화
-#### [텍스트 네트워크](https://angelfox4.github.io/Portfolio/network/) <br>
+#### [텍스트 네트워크](https://angelfox4.github.io/Portfolio/network/)
+<br>
+
 ---
+
 ### ✔ 동적 지도 시각화
 #### 1. [전국 어린이 보행자 사고다발 지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_1.html) <br>
 #### 2. [서울시 어린이 보행자사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_2.html) <br>
@@ -17,6 +20,11 @@
 <br>
 
 ---
+### ✔ 일반 시각화
+#### 1. 스쿨존 법규위반별 교통사고 
+![스쿨존_법규위반별_교통사고_문혜현](https://user-images.githubusercontent.com/55529646/100466438-44e69080-3114-11eb-85b8-a1d056edf75b.PNG)
+<br>
+
 ### 데이터 목록
 ```markdown
 [GIS DEVELOPER] 
