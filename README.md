@@ -5,8 +5,9 @@
 
 ---
 
-### ✔ 텍스트 시각화
-#### [텍스트 네트워크](https://angelfox4.github.io/Portfolio/network/)
+### ✔ 텍스트 네트워크 시각화
+#### [어린이 교통사고 연관검색어](https://angelfox4.github.io/Portfolio/network/)
+![어린이교통사고_연간검색어_문혜현](https://user-images.githubusercontent.com/55529646/100466444-46b05400-3114-11eb-949f-8319463a73fb.png)
 <br>
 
 ---
@@ -21,20 +22,18 @@
 
 ---
 ### ✔ 일반 시각화
-#### 1. 스쿨존 법규위반별 교통사고 
+#### 1. 월별 스쿨존 비스쿨존 교통사고
+![월별_스쿨존_비스쿨존_교통사고_문혜현](https://user-images.githubusercontent.com/55529646/100466450-47e18100-3114-11eb-9cd2-8da654499fca.PNG)
+<br>
+#### 2. 스쿨존 법규위반별 교통사고 
 ![스쿨존_법규위반별_교통사고_문혜현](https://user-images.githubusercontent.com/55529646/100466438-44e69080-3114-11eb-85b8-a1d056edf75b.PNG)
 <br>
-#### 2. 시간별 스쿨존 비스쿨존 교통사고
+#### 3. 시간별 스쿨존 비스쿨존 교통사고
 ![시간별_스쿨존_비스쿨존_교통사고_문혜현](https://user-images.githubusercontent.com/55529646/100466441-4617bd80-3114-11eb-8908-a73695f1915f.PNG)
-<br>
-#### 3. 어린이 교통사고 연관검색어 
-![어린이교통사고_연간검색어_문혜현](https://user-images.githubusercontent.com/55529646/100466444-46b05400-3114-11eb-949f-8319463a73fb.png)
 <br>
 #### 4. 요일별 스쿨존 비스쿨존 교통사고
 ![요일별_스쿨존_비스쿨존_교통사고_문혜현](https://user-images.githubusercontent.com/55529646/100466449-47e18100-3114-11eb-84eb-c8984d8c7513.PNG)
 <br>
-#### 5. 월별 스쿨존 비스쿨존 교통사고
-![월별_스쿨존_비스쿨존_교통사고_문혜현](https://user-images.githubusercontent.com/55529646/100466450-47e18100-3114-11eb-9cd2-8da654499fca.PNG)
 
 ### 데이터 목록
 ```markdown
