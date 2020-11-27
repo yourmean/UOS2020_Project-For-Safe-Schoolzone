@@ -16,8 +16,6 @@
 
 ---
 <br><br><br>
-
-
 ### 데이터 목록
 ```markdown
 [GIS DEVELOPER] 대한민국 행정구역도
