@@ -12,11 +12,11 @@
 #### [텍스트 네트워크](https://angelfox4.github.io/Portfolio/network/) <br>
 ---
 ### ✔ 동적 지도 시각화
-#### 1. [전국 어린이 보행자 사고다발 지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_1.html) <br>
-#### 2. [서울시 어린이 보행자사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_2.html) <br>
-#### 3. [전국 어린이 보행자사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_3.html) <br>
-#### 4. [서울 어린이 교통사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_1.html) <br>
-#### 5. [서울시 구별 어린이 교통사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00130bec24f53f9b12802f1fa9863c095be8bee8/map_5.html) <br>
+#### 1. [전국 어린이 보행자 사고다발 지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_1.html) <br>
+#### 2. [서울시 어린이 보행자사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_2.html) <br>
+#### 3. [전국 어린이 보행자사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_3.html) <br>
+#### 4. [서울 어린이 교통사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_4.html) <br>
+#### 5. [서울시 구별 어린이 교통사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_5.html) <br>
 <br>
 
 ---
