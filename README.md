@@ -1,5 +1,5 @@
 ## 2020 서울시립대학교 빅데이터 연계경진대회
-페이지 링크 [[Link]](https://yourmean.github.io/uos2020_bigdata_contest/)
+웹페이지 바로가기 [[Link]](https://yourmean.github.io/uos2020_bigdata_contest/)
 
 <br>
 
