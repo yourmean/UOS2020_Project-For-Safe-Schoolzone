@@ -6,18 +6,18 @@
 ---
 
 ### ✔ 텍스트 네트워크 시각화
-#### [어린이 교통사고 연관검색어](https://angelfox4.github.io/Portfolio/network/)
+#### 어린이 교통사고 연관검색어 [Link](https://angelfox4.github.io/Portfolio/network/)
 ![어린이교통사고_연간검색어_문혜현](https://user-images.githubusercontent.com/55529646/100466444-46b05400-3114-11eb-949f-8319463a73fb.png)
 <br>
 
 ---
 
 ### ✔ 동적 지도 시각화
-#### 1. [전국 어린이 보행자 사고다발 지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_1.html) <br>
-#### 2. [서울시 어린이 보행자사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_2.html) <br>
-#### 3. [전국 어린이 보행자사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_3.html) <br>
-#### 4. [서울 어린이 교통사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_4.html) <br>
-#### 5. [서울시 구별 어린이 교통사고 다발지역](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_5.html) <br>
+#### 1. 전국 어린이 보행자 사고다발 지역[Link](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_1.html) <br>
+#### 2. 서울시 어린이 보행자사고 다발지역[Link](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_2.html) <br>
+#### 3. 전국 어린이 보행자사고 다발지역[Link](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_3.html) <br>
+#### 4. 서울 어린이 교통사고 다발지역[Link](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_4.html) <br>
+#### 5. 서울시 구별 어린이 교통사고 다발지역[Link](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_5.html) <br>
 <br>
 
 ---
