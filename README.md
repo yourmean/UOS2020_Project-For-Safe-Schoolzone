@@ -8,26 +8,25 @@
 ### ✔ 텍스트 네트워크 시각화
 #### 어린이 교통사고 연관검색어 [[Link]](https://angelfox4.github.io/Portfolio/network/)
 ![어린이교통사고_연간검색어](https://user-images.githubusercontent.com/55529646/100466444-46b05400-3114-11eb-949f-8319463a73fb.png)
-<br>
+<br><br>
 
 ---
 
 ### ✔ 동적 지도 시각화
 #### 1. 전국 어린이 보행자 사고다발 지역 [[Link]](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_1.html)
 ![m1](https://user-images.githubusercontent.com/55529646/100493822-56648280-317e-11eb-92eb-d410629932e6.PNG)
-<br>
+<br><br>
 #### 2. 서울시 어린이 보행자사고 다발지역 [[Link]](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_2.html) 
 ![m2](https://user-images.githubusercontent.com/55529646/100493823-5795af80-317e-11eb-9709-6b20bea8dde6.PNG)
-<br>
+<br><br>
 #### 3. 전국 어린이 보행자사고 다발지역 [[Link]](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_3.html) 
 ![m3](https://user-images.githubusercontent.com/55529646/100493824-5795af80-317e-11eb-842b-c39565bdba90.PNG)
-<br>
+<br><br>
 #### 4. 서울 어린이 교통사고 다발지역 [[Link]](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_4.html) 
 ![m4](https://user-images.githubusercontent.com/55529646/100493825-58c6dc80-317e-11eb-9f83-97eda8506de2.PNG)
-<br>
+<br><br>
 #### 5. 서울시 구별 어린이 교통사고 다발지역 [[Link]](https://rawcdn.githack.com/yourmean/uos2020_bigdata_contest/00abccde999a5343d2fa5ac1d5e0f0beff52e222/map_5.html) 
 ![m5](https://user-images.githubusercontent.com/55529646/100493826-58c6dc80-317e-11eb-8dcb-5bde9c67b341.PNG)
-
 <br>
 <br>
 
@@ -35,13 +34,13 @@
 ### ✔ 일반 시각화
 #### 1. 월별 스쿨존 비스쿨존 교통사고
 ![월별_스쿨존_비스쿨존_교통사고_문혜현](https://user-images.githubusercontent.com/55529646/100466450-47e18100-3114-11eb-9cd2-8da654499fca.PNG)
-<br>
+<br><br>
 #### 2. 스쿨존 법규위반별 교통사고 
 ![스쿨존_법규위반별_교통사고_문혜현](https://user-images.githubusercontent.com/55529646/100466438-44e69080-3114-11eb-85b8-a1d056edf75b.PNG)
-<br>
+<br><br>
 #### 3. 시간별 스쿨존 비스쿨존 교통사고
 ![시간별_스쿨존_비스쿨존_교통사고_문혜현](https://user-images.githubusercontent.com/55529646/100466441-4617bd80-3114-11eb-8908-a73695f1915f.PNG)
-<br>
+<br><br>
 #### 4. 요일별 스쿨존 비스쿨존 교통사고
 ![요일별_스쿨존_비스쿨존_교통사고_문혜현](https://user-images.githubusercontent.com/55529646/100466449-47e18100-3114-11eb-84eb-c8984d8c7513.PNG)
 <br>
