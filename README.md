@@ -21,7 +21,7 @@
 #### 2. 서울시 어린이 보행자사고 다발지역 [[Link]](https://ghcdn.rawgit.org/yourmean/uos2020_bigdata_contest/master/map/map_2.html) 
 ![m2](https://user-images.githubusercontent.com/55529646/100493823-5795af80-317e-11eb-9709-6b20bea8dde6.PNG)
 <br><br>
-#### 3. 전국 어린이 보행자사고 다발지역 [[Link]](https://ghcdn.rawgit.org/yourmean/uos2020_bigdata_contest/master/map/map_3.html) 
+#### 3. 전국 어린이 보행자사고 다발지역 [[Link]](https://yourmean.github.io/map_3/) 
 ![m3](https://user-images.githubusercontent.com/55529646/100493824-5795af80-317e-11eb-842b-c39565bdba90.PNG)
 <br><br>
 #### 4. 서울 어린이 교통사고 다발지역 [[Link]](https://ghcdn.rawgit.org/yourmean/uos2020_bigdata_contest/master/map/map_4.html) 
