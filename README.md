@@ -31,9 +31,9 @@
 ![m5](https://user-images.githubusercontent.com/55529646/100493826-58c6dc80-317e-11eb-8dcb-5bde9c67b341.PNG)
 <br>
 <br>
- 
+
 ---
-### ✔ 일반 시각화
+### ✔ 어린이 교통사고 외적요인 시각화
 #### 1. 월별 스쿨존 비스쿨존 교통사고
 ![월별_스쿨존_비스쿨존_교통사고_문혜현](https://user-images.githubusercontent.com/55529646/100466450-47e18100-3114-11eb-9cd2-8da654499fca.PNG)
 <br><br>
@@ -46,6 +46,31 @@
 #### 4. 요일별 스쿨존 비스쿨존 교통사고
 ![요일별_스쿨존_비스쿨존_교통사고_문혜현](https://user-images.githubusercontent.com/55529646/100466449-47e18100-3114-11eb-84eb-c8984d8c7513.PNG)
 <br>
+<br>
+
+
+---
+### ✔ 스쿨존 vs. 비스쿨존 시각화
+#### 1. 연령대별 교통사고 사상자수
+![연령대별_교통사고_사상자수_강창구](https://user-images.githubusercontent.com/55529646/101240174-f303c300-3730-11eb-8ebb-64ec11c4c50a.png)
+<br><br>
+#### 2. 아동 성별 사망원인(교통사고 vs. 기타)
+![아동_성별_사망원인(교통사고_대_기타)_강창구](https://user-images.githubusercontent.com/55529646/101240172-f1d29600-3730-11eb-8313-18600ceb891f.png)
+
+<br><br>
+
+
+---
+### ✔ 결론 시각화
+#### 1. 음주운전 vs. 자전거 vs. 어린이 교통사고 건수 
+![음주운전_자전거_어린이_교통사고건수_비교_강창구](https://user-images.githubusercontent.com/55529646/101240175-f39c5980-3730-11eb-96cf-54420c3fc23b.png)
+<br><br>
+#### 2. 연도별 어린이 보호구역 지정 현황
+![연도별_어린이_보호구역_지정현황_강창구](https://user-images.githubusercontent.com/55529646/101240173-f303c300-3730-11eb-9f25-5f14b54f66e5.png)
+<br><br>
+
+<br>
+
 
 ### 데이터 목록
 ```markdown
