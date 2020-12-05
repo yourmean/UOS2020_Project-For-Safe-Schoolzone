@@ -15,7 +15,7 @@
 ---
 
 ### ✔ 동적 지도 시각화
-#### 1. 전국 어린이 보행자 사고다발 지역 [[Link]](https://ghcdn.rawgit.org/yourmean/uos2020_bigdata_contest/master/map/map_1.html)
+#### 1. 전국 어린이 보행자 사고다발 지역 [[Link]](https://yourmean.github.io/map_11/)
 ![m1](https://user-images.githubusercontent.com/55529646/100493822-56648280-317e-11eb-92eb-d410629932e6.PNG)
 <br><br>
 #### 2. 서울시 어린이 보행자사고 다발지역 [[Link]](https://yourmean.github.io/map_2/) 
