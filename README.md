@@ -65,7 +65,7 @@
 ![음주운전_자전거_어린이_교통사고건수_비교_강창구](https://user-images.githubusercontent.com/55529646/101240175-f39c5980-3730-11eb-96cf-54420c3fc23b.png)
 <br><br>
 #### 2. 연도별 어린이 보호구역 지정 현황
-![연도별_어린이_보호구역_지정현황_강창구](https://raw.githubusercontent.com/yourmean/uos2020_bigdata_contest/master/image/%EC%97%B0%EB%8F%84%EB%B3%84_%EC%96%B4%EB%A6%B0%EC%9D%B4_%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_%EC%A7%80%EC%A0%95%ED%98%84%ED%99%A9_%EA%B0%95%EC%B0%BD%EA%B5%AC.png?token=AMCQKTEV7VI566P6US3EAIS73CFF2)
+![연도별_어린이_보호구역_지정현황_강창구](https://raw.githubusercontent.com/yourmean/uos2020_bigdata_contest/master/image/%EC%97%B0%EB%8F%84%EB%B3%84_%EC%96%B4%EB%A6%B0%EC%9D%B4_%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_%EC%A7%80%EC%A0%95%EC%88%98_%EA%B0%95%EC%B0%BD%EA%B5%AC.png?token=AMCQKTGTY7XXFVHPYXJDCZ273CH6I)
 <br><br>
 
 <br>
