@@ -1,18 +1,16 @@
-## 2020 서울시립대학교 빅데이터 연계경진대회 [[link]](https://www.uos.ac.kr/korNotice/view.do?list_id=scien01&seq=1063&sort=2&epTicket=ST-324536-IZdLxCDKLrMHdf4pyjBnR4HFsZbmePB0bPm-22)
-
-시각화 웹페이지 바로가기 [[Link]](https://yourmean.github.io/uos2020_bigdata_contest/)
-
-<br>
-
----
+## 어린이 보호구역, 안전을 잡아라!
+2020 서울시립대학교 빅데이터 연계경진대회 은상(2위) 수상작 [[link]](https://www.uos.ac.kr/korNotice/view.do?list_id=scien01&seq=1063&sort=2&epTicket=ST-324536-IZdLxCDKLrMHdf4pyjBnR4HFsZbmePB0bPm-22)
 
 ## Contributors
 이유민 (팀장)  [[github]](https://github.com/yourmean)
 강창구  [[github]](https://github.com/rxdcxdrnine)
 문혜현  [[github]](https://github.com/angelfox4)
 
----
+<br>
+시각화 웹페이지 바로가기 [[Link]](https://yourmean.github.io/uos2020_bigdata_contest/)
 
+<br>
+<br>
 ### ✔ 텍스트 네트워크 시각화
 #### 어린이 교통사고 연관검색어 [[Link]](https://angelfox4.github.io/Portfolio/network/)
 ![어린이교통사고_연간검색어](https://user-images.githubusercontent.com/55529646/100466444-46b05400-3114-11eb-949f-8319463a73fb.png)
