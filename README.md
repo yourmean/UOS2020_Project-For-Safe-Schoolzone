@@ -7,9 +7,10 @@
 문혜현  [[github]](https://github.com/angelfox4)
 
 <br>
-시각화 웹페이지 바로가기 [Link](https://yourmean.github.io/uos2020_bigdata_contest/) 
-<br>
-<br>
+
+시각화 웹페이지 바로가기 [[Link]](https://yourmean.github.io/uos2020_bigdata_contest) 
+
+<br><br>
 
 ---
 
