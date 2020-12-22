@@ -1,8 +1,15 @@
-## 2020 서울시립대학교 빅데이터 연계경진대회
-웹페이지 바로가기 [[Link]](https://yourmean.github.io/uos2020_bigdata_contest/)
+## 2020 서울시립대학교 빅데이터 연계경진대회 [[link]](https://www.uos.ac.kr/korNotice/view.do?list_id=scien01&seq=1063&sort=2&epTicket=ST-324536-IZdLxCDKLrMHdf4pyjBnR4HFsZbmePB0bPm-22)
+
+시각화 웹페이지 바로가기 [[Link]](https://yourmean.github.io/uos2020_bigdata_contest/)
 
 <br>
 
+---
+
+## Contributors
+이유민 (팀장)  [[github]](https://github.com/yourmean)
+강창구  [[github]](https://github.com/rxdcxdrnine)
+문혜현  [[github]](https://github.com/angelfox4)
 
 ---
 
@@ -17,16 +24,16 @@
 #### 1. 전국 어린이 보행자 사고다발 지역 [[Link]](https://yourmean.github.io/map_11/)
 ![m1](https://user-images.githubusercontent.com/55529646/100493822-56648280-317e-11eb-92eb-d410629932e6.PNG)
 <br><br>
-#### 2. 서울시 어린이 보행자사고 다발지역 [[Link]](https://yourmean.github.io/map_2/) 
+#### 2. 서울시 어린이 보행자사고 다발지역
 ![m2](https://user-images.githubusercontent.com/55529646/100493823-5795af80-317e-11eb-9709-6b20bea8dde6.PNG)
 <br><br>
-#### 3. 전국 어린이 보행자사고 다발지역 [[Link]](https://yourmean.github.io/map_3/) 
+#### 3. 전국 어린이 보행자사고 다발지역
 ![m3](https://user-images.githubusercontent.com/55529646/100493824-5795af80-317e-11eb-842b-c39565bdba90.PNG)
 <br><br>
-#### 4. 서울 어린이 교통사고 다발지역 [[Link]](https://yourmean.github.io/map_4/) 
+#### 4. 서울 어린이 교통사고 다발지역
 ![m4](https://user-images.githubusercontent.com/55529646/100493825-58c6dc80-317e-11eb-9f83-97eda8506de2.PNG)
 <br><br>
-#### 5. 서울시 구별 어린이 교통사고 다발지역 [[Link]](https://yourmean.github.io/map_5/) 
+#### 5. 서울시 구별 어린이 교통사고 다발지역
 ![m5](https://user-images.githubusercontent.com/55529646/100493826-58c6dc80-317e-11eb-8dcb-5bde9c67b341.PNG)
 <br>
 <br>
