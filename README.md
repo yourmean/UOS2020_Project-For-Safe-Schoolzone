@@ -3,8 +3,8 @@
 
 ## Contributors
 이유민 (팀장)  [[github]](https://github.com/yourmean) <br>
-강창구  [[github]](https://github.com/rxdcxdrnine) <br>
-문혜현  [[github]](https://github.com/angelfox4)
+강창구         [[github]](https://github.com/rxdcxdrnine) <br>
+문혜현         [[github]](https://github.com/angelfox4)
 
 <br>
 
