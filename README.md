@@ -2,6 +2,11 @@
 2020 서울시립대학교 빅데이터 연계경진대회 은상(2위) 수상작 [[link]](https://www.uos.ac.kr/korNotice/view.do?list_id=scien01&seq=1063&sort=2&epTicket=ST-324536-IZdLxCDKLrMHdf4pyjBnR4HFsZbmePB0bPm-22)
 
 
+## Contributors
+이유민 (팀장)  [[github]](https://github.com/yourmean) <br>
+강창구         [[github]](https://github.com/rxdcxdrnine) <br>
+문혜현         [[github]](https://github.com/angelfox4)
+
 <br>
 
 시각화 웹페이지 바로가기 [[Link]](https://yourmean.github.io/uos2020_bigdata_contest) 
