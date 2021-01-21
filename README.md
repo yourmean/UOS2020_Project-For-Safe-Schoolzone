@@ -7,7 +7,7 @@
 
 
 ### ✔ 텍스트 네트워크 시각화
-#### 어린이 교통사고 연관검색어 [[Link]](https://angelfox4.github.io/Portfolio/network/)
+#### 어린이 교통사고 연관검색어
 ![어린이교통사고_연간검색어](https://user-images.githubusercontent.com/55529646/100466444-46b05400-3114-11eb-949f-8319463a73fb.png)
 <br><br>
 
