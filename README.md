@@ -5,10 +5,6 @@
 ## Contributors
 [이유민 (팀장)](https://github.com/yourmean), [강창구](https://github.com/rxdcxdrnine), [문혜현](https://github.com/angelfox4)
 
-<br>
-
-시각화 웹페이지 바로가기 [[Link]](https://yourmean.github.io/uos2020_bigdata_contest) 
-
 <br><br>
 
 ---
