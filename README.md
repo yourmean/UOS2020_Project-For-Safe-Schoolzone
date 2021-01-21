@@ -7,7 +7,6 @@
 
 <br><br>
 
----
 
 ### ✔ 텍스트 네트워크 시각화
 #### 어린이 교통사고 연관검색어 [[Link]](https://angelfox4.github.io/Portfolio/network/)
@@ -106,5 +105,5 @@
 서울시 주민등록인구 (구별) 통계 (2005~2019)
 ```
 
-### 추가 사항
-시각화와 관련한 코드들은 깃허브 레포지토리 [uos2020_bigdata_contest_repo](https://github.com/yourmean/uos2020_bigdata_contest) 에서 확인하실 수 있습니다.
+### License
+Apache
