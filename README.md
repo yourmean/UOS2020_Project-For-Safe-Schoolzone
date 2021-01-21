@@ -1,4 +1,4 @@
-## 어린이 보호구역, 안전을 잡아라!
+# 어린이 보호구역, 안전을 잡아라!
 2020 서울시립대학교 빅데이터 연계경진대회 은상(2위) 수상작 [[link]](https://www.uos.ac.kr/korNotice/view.do?list_id=scien01&seq=1063&sort=2&epTicket=ST-324536-IZdLxCDKLrMHdf4pyjBnR4HFsZbmePB0bPm-22)
 
 
@@ -6,7 +6,7 @@
 [이유민 (팀장)](https://github.com/yourmean), [강창구](https://github.com/rxdcxdrnine), [문혜현](https://github.com/angelfox4)
 
 
-### ✔ 텍스트 네트워크 시각화
+## ✔ 텍스트 네트워크 시각화
 #### 어린이 교통사고 연관검색어
 ![어린이교통사고_연간검색어](https://user-images.githubusercontent.com/55529646/100466444-46b05400-3114-11eb-949f-8319463a73fb.png)
 <br><br>
@@ -103,5 +103,5 @@
 서울시 주민등록인구 (구별) 통계 (2005~2019)
 ```
 
-### License
+## License
 Apache
