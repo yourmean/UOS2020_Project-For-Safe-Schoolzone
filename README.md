@@ -5,8 +5,6 @@
 ## Contributors
 [이유민 (팀장)](https://github.com/yourmean), [강창구](https://github.com/rxdcxdrnine), [문혜현](https://github.com/angelfox4)
 
-<br><br>
-
 
 ### ✔ 텍스트 네트워크 시각화
 #### 어린이 교통사고 연관검색어 [[Link]](https://angelfox4.github.io/Portfolio/network/)
